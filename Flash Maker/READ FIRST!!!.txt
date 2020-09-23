@@ -1,0 +1,22 @@
+VERY IMPORTANT:
+
+Chang the name of swfobjs to swfobjs.dll and register it. Then you can run the code !!!
+swfobjs has no extension, then you can just rename it adding the .dll and its done, if you dont know how to register it just rename the 'reg' file adding the .bat and run it (maybe need to change the regsvr path).
+
+I hope that we will work togheter in managing in a better way with the text effects. If you improve this code in any way (no matter if you our your code in PSC), let me know and show me your code (if you want).
+ricardoarias@yahoo.com
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+This code is based (but huge improved) on Matthew Woodham's code.
+
+SSorry if the code is commented in spanish too.
+
+What i has improve?
+
+Animation, add movements, text effects... a lot of things.
+I wasnt sure of uploading this gizmo... but as i found many material here in PSC and use it, i want to contribute with my own code.
+
+DONT FORGET TO VOTE!!! I think this is one of the best code in PSC.
+
+
+
+
